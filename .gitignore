@@ -1,5 +1,10 @@
+# Venev environment
 .venv/
+venv/
 __pycache__/
 *.pyc
 dataset/
 requirements.txt
+
+#conda environment
+.conda/
